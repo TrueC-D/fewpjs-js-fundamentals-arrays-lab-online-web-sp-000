@@ -1,2 +1,4 @@
-// Write your solution here!
-const append = push("Odie")
+const append = push()
+const prepend = unshift()
+const removeLast() = pop()
+const removeFirst() = shift()
